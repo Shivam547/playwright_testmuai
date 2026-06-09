@@ -2,8 +2,6 @@
 
 Automated test suite for Amazon shopping cart functionality using **Playwright** framework with **parallel execution** support.
 
-Live Report - https://shivam547.github.io/playwright_testmuai/
-
 ## Overview
 
 This project implements two automated test cases that run in parallel:
